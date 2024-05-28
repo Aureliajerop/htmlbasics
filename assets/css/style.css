@@ -1,0 +1,40 @@
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #b7c2b9;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+}
+li a{
+   padding: 20px;
+    color: #bf7fff;
+    display: block;
+    text-decoration: none;
+    font-family: C059;
+}
+h2{
+    text-align: center;
+}
+p{
+    color: #bf7fff;
+    font-family: cursive;
+    font-size: medium;
+}
+body{
+    background-color:whitesmoke;
+}
+
+th,td{
+
+    border: 3px solid cornflowerblue;
+    padding: 20px;
+    font-family: cursive;
+}
+table{border-collapse: collapse;
+    width: 100%;
+
+}
